@@ -114,6 +114,7 @@ Guidelines to help you write YARA rules that are fast and don't consume a lot of
 [How to Write Simple but Sound YARA Rules - Part1](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
 [How to Write Simple but Sound YARA Rules - Part2](https://www.nextron-systems.com/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/)
 [How to Write Simple but Sound YARA Rules - Part3](https://www.nextron-systems.com/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/)
+[50 Shades of YARA](https://www.nextron-systems.com/2019/01/02/50-shades-of-yara/)
 
 ## Security Monitoring
 
@@ -123,7 +124,7 @@ A cheat sheet that help security monitoring anylsts process events from their an
 
 [https://www.nextron-systems.com/?s=antivirus](https://www.nextron-systems.com/?s=antivirus)
 
-## Web Proxy Event Analysis Cheat Sheet
+### Web Proxy Event Analysis Cheat Sheet
 
 A cheat sheet that help security monitoring anylsts process events from their web proxy products in a reasonable manner.
 
@@ -143,10 +144,60 @@ A Google Docs spreadsheet that tracks the different names and campaign of well-k
 
 [https://docs.google.com/spreadsheets/d/e/2PACX-1vTheajUWzRhTK0XhSI3_RnYVtUJvl8mlX8HlThPyCJGK1g5SBecgS78O1oeTFQxDYS0oWlKTg2pNLyb/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTheajUWzRhTK0XhSI3_RnYVtUJvl8mlX8HlThPyCJGK1g5SBecgS78O1oeTFQxDYS0oWlKTg2pNLyb/pubhtml)
 
+### APT Simulator
+
+APT Simulator is a Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised (probably the most basic and simplest threat simulation tool available)
+
+[https://github.com/NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator)
+
+### Article: The Newcomer’s Guide to Cyber Threat Actor Naming
+
+[https://medium.com/@cyb3rops/the-newcomers-guide-to-cyber-threat-actor-naming-7428e18ee263](https://medium.com/@cyb3rops/the-newcomers-guide-to-cyber-threat-actor-naming-7428e18ee263)
+
+### Article: How to Fall Victim to Advanced Persistent Threats
+
+[https://www.nextron-systems.com/2016/05/04/how-to-fall-victim-to-apt/](https://www.nextron-systems.com/2016/05/04/how-to-fall-victim-to-apt/)
+
+## Slide Decks
+
+### Security Analyst Workshop
+
+Security analyst workshop slides, with useful tools and services
+
+[https://www.slideshare.net/FlorianRoth2/security-analyst-workshop-20200212](https://www.slideshare.net/FlorianRoth2/security-analyst-workshop-20200212)
+
+### Maturity Model of Security Disciplines
+
+Maturity Model of Security Disciplines (includes the table with the top log sources)
+
+[https://www.slideshare.net/FlorianRoth2/maturity-model-of-security-disciplines](https://www.slideshare.net/FlorianRoth2/maturity-model-of-security-disciplines)
+
+### Ransomware Resistance
+
+The Pareto principle applied to a list of measures that increase malware resistance
+
+[https://www.slideshare.net/FlorianRoth2/ransomware-resistance](https://www.slideshare.net/FlorianRoth2/ransomware-resistance)
+
+### 50 Shades of Sigma
+
+Describe and Share Generic Threat Detection Methods
+
+[https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw&viewer=HzCnrjmYjRWrou0r2qMfspRZSPFyv4RC](https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw&viewer=HzCnrjmYjRWrou0r2qMfspRZSPFyv4RC)
+
 ## Other
+
+### DLLRunner
+
+A tool to run DLL files in sandbox systems (from October 2014)
+
+[https://github.com/Neo23x0/DLLRunner](https://github.com/Neo23x0/DLLRunner)
 
 ### RadioCarbon
 
 A leak file analyzer
 
 [https://github.com/Neo23x0/radiocarbon](https://github.com/Neo23x0/radiocarbon)
+
+## Project Ideas
+
+... (TBA)
