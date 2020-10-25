@@ -116,6 +116,7 @@ Guidelines to help you write YARA rules that are fast and don't consume a lot of
 [How to Write Simple but Sound YARA Rules - Part2](https://www.nextron-systems.com/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/)
 [How to Write Simple but Sound YARA Rules - Part3](https://www.nextron-systems.com/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/)
 [50 Shades of YARA](https://www.nextron-systems.com/2019/01/02/50-shades-of-yara/)
+[How to Create a YARA Rule for a Compromised Certificate](https://www.nextron-systems.com/2018/11/01/short-tutorial-how-to-create-a-yara-rule-for-a-compromised-certificate/)
 
 ## Security Monitoring
 
