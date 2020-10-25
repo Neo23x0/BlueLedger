@@ -1,5 +1,6 @@
 # BlueLedger
-A list of my personal projects on Gihtub and all other locations
+
+A list of my personal and community supported projects on Gihtub and all other locations
 
 ## Signatures
 
