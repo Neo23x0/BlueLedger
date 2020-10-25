@@ -12,7 +12,7 @@ Generic Signature Format for SIEM Systems
 
 ### Signature Base
 
-Community supported signature database for my scanners LOKI and THOR Lite
+Community supported YARA signature database for my scanners LOKI and THOR Lite
 
 [https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)
 
